@@ -27,11 +27,11 @@ To build a new component from this template:
 ## Contributors
 | Name        | Main Contributions          |
 |-------------|-----------------------------|
-| Falk Pollok | REST, Thrift, Gradle, Tests |
+| k0105       | REST, Thrift, Gradle, Tests |
 
 ### ASLv2
     Generic Backend Service
-    Copyright 2016 University of Michigan
+    Copyright 2016 RWTH Aachen, University of Michigan
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
