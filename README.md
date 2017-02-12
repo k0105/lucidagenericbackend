@@ -17,6 +17,8 @@ To build a new component from this template:
 5) Adapt path in edu.umich.sapphire.genericbackend.communication.RestHandler
 6) Replace this README with one describing the new backend, but do not remove license and contributors parts
    (last two paragraphs)
+   
+Added generic backend as follows: in `/lucida/commandcenter/controllers/Config.py` changed QA service line to `'QA' : Service('QA', 9092, 'text', 'text'),` and QA classifier description to `'text' : { 'class_QA' :  Graph([Node('QA')]) },`
 
 ## Guidelines
 - Follow test-driven development and microservice architecture
